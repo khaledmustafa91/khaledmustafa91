@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khaledmustafa91&label=Profile%20views&color=0e75b6&style=flat" alt="khaledmustafa91" /> </p>
 
-- 🌱 I’m currently learning **React and ruby on rails**
-
 - 📫 How to reach me **khaled.mustafa1297@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
